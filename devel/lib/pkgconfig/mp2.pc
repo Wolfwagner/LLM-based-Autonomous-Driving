@@ -1,0 +1,8 @@
+prefix=/home/yifei/Safe-Autonomy/mp-release-23fa/devel
+
+Name: mp2
+Description: Description of mp2
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

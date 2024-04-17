@@ -1,0 +1,8 @@
+prefix=/home/yifei/Safe-Autonomy/mp-release-23fa/devel
+
+Name: gem_description
+Description: Description of gem_description
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
